@@ -86,3 +86,4 @@ function lost(){
     isAlive = false;
     cards = [firstCard, secondCard];
 }
+
